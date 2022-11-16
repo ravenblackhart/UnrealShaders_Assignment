@@ -1,6 +1,8 @@
 # UnrealShaders_Assignment
 FGGP21 Shaders Assignment
 
+Video Documentation found in (Root >) Documentation Folder
+
 All shaders and effects are present in the following maps (Content > Maps) 
 1. 0_Default - Using base from Asset pack with shaders applied for a more "realistic" application 
 2. ThirdPersonMap - Standalone Applications to defualt Unreal ThirdPerson starting map to allow effects to be more visible individually. 
